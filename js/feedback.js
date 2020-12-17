@@ -1,4 +1,4 @@
-var callBtn = document.getElementById("feedback__tabs-call");
+ var callBtn = document.getElementById("feedback__tabs-call");
 var formBtn = document.getElementById("feedback__tabs-form");
 var callBlock = document.querySelector(".feedback__info");
 var formBlock = document.querySelector(".feedback__form");
